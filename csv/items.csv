@@ -1,0 +1,5 @@
+name,effect,count,position,hp_effect,hunger_effect
+poison_apple,Poison,9,Tavern.Table.FrontLeft,-10,-5
+magic_apple,Magic,10,Tavern.Table.Left,10,-3
+force_apple,Force,10,Tavern.Table.BackLeft,1,-1
+heart_apple,Heart,10,Tavern.Table.Right,15,-2
